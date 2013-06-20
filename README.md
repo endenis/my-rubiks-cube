@@ -1,4 +1,6 @@
-My-Rubiks-Cube
+My Rubik's cube
 ==============
 
-Virtual Rubik's cube. JavaScript and Three.js.
+Virtual Rubik's cube.
+JavaScript and Three.js.
+Under development.
